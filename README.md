@@ -47,7 +47,7 @@ The tool allows creating masked URLs that appear legitimate at first glance but 
 - 📱 **URL Preview**: See how links appear in different contexts
 - 🔄 **Auto-updates**: Keep your CatFish fresh with automatic updates
 
-# 🚀 Installation
+## 🚀 Installation
 ### Clone the repository
 ```bash
 git clone [https://github.com/username/catfish.git](https://github.com/username/catfish.git)
