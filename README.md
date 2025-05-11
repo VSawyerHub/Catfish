@@ -48,15 +48,22 @@ The tool allows creating masked URLs that appear legitimate at first glance but 
 - 🔄 **Auto-updates**: Keep your CatFish fresh with automatic updates
 
 ## 🚀 Installation
-bash
 # Clone the repository
+```bash
 git clone [https://github.com/username/catfish.git](https://github.com/username/catfish.git)
+```
 # Navigate to the directory
+```bash
 cd catfish
+```
 # Make the script executable
+```bash
 chmod +x catfish.sh
+```
 # Run CatFish
+```bash
 ./catfish.sh
+```
 
 
 ### Dependencies
@@ -70,9 +77,10 @@ CatFish automatically checks for and prompts to install required dependencies:
 ## 🎮 Usage
 
 ### Basic Usage
-bash ./catfish.sh
 
-
+```bash
+./catfish.sh
+```
 
 Follow the interactive prompts to create your masked URL.
 
