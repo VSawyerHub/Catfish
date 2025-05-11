@@ -50,7 +50,7 @@ The tool allows creating masked URLs that appear legitimate at first glance but 
 ## 🚀 Installation
 ### Clone the repository
 ```bash
-git clone [https://github.com/username/catfish.git](https://github.com/username/catfish.git)
+git clone https://github.com/vsawyerhub/catfish.git
 ```
 ### Navigate to the directory
 ```bash
